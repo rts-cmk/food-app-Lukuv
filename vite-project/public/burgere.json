@@ -1,0 +1,44 @@
+{
+  "burgers": [
+    {
+      "id": "1",
+      "name": "Cheeseburger",
+      "type": "Wendy's Burger",
+      "rating": 4.9,
+      "img": "1",
+      "time": "26",
+      "description": "The Cheeseburger Wendy's Burger is a classic fast food burger that packs a punch of flavor in every bite. Made with a juicy beef patty cooked to perfection, it's topped with melted American cheese, crispy lettuce, ripe tomato, and crunchy pickles.",
+      "spicy": "2"
+    },
+    {
+      "id": "2",
+      "name": "Hamburger",
+      "type": "Veggie Burger",
+      "rating": 4.8,
+      "img": "2",
+      "time": "34",
+      "description": "En sprød og smagfuld vegetarburger lavet med plantebaseret bøf, friske grøntsager og cremet mayo.",
+      "spicy": "1"
+    },
+    {
+      "id": "3",
+      "name": "Hamburger",
+      "type": "Chicken Burger",
+      "rating": 4.6,
+      "img": "3",
+      "time": "22",
+      "description": "En sprødstegt kyllingeburger med frisk salat, pickles og krydret aioli i en blød briochebolle.",
+      "spicy": "2"
+    },
+    {
+      "id": "4",
+      "name": "Hamburger",
+      "type": "Fried Chicken Burger",
+      "rating": 4.5,
+      "img": "4",
+      "time": "25",
+      "description": "En lækker friteret kyllingeburger med sprød skorpe, syltede agurker og cremet ranch-dressing.",
+      "spicy": "5"
+    }
+  ]
+}
